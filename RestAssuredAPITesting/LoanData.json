@@ -1,0 +1,76 @@
+{
+    "introducerId": "D5C99C868B00460F9A793241F1C88967",
+    "arrangerId": "D5C99C868B00460F9A793241F1C88967",
+    "supplierId": "D5C99C868B00460F9A793241F1C88967",
+    "externalId": "uniqueString",
+    "incomeChangeExpected": false,
+    "incomeChangeDetails": "",
+    "mainApplicant": {
+        "title": "MR",
+        "firstName": "Paul",
+        "lastName": "Smith",
+        "dateOfBirth": "1990-01-01",
+        "email": "oodletesting789+61@gmail.com",
+        "maritalStatus": "MARRIED",
+        "drivingLicenceType": "FULL_UK",
+        "nationality": "British",
+        "landLinePhone": "01793121212",
+        "mobilePhone": "07944444444",
+        "id": "0018E00000N2baHQAR",
+        "employments": [
+            {
+                "id": "a0A8E0000082ZCdUAM",
+                "employmentStatus": "EMPLOYED",
+                "occupationType": "PERMANENT_FULL_TIME",
+                "annualGrossSalary": 20000,
+                "jobTitle": "Business Analyst",
+                "companyName": "Carnival",
+                "durationInMonths": 5,
+                "durationInYears": 12,
+                "isCurrent": true
+            }
+        ],
+        "residences": [
+            {
+                "flatNumber": "",
+                "buildingName": "",
+                "houseNumber": "90",
+                "buildingNumber": "",
+                "street": "Elizabeth Road",
+                "postTown": "Oxford",
+                "county": "Oxforshire",
+                "postCode": "OX4 4GE",
+                "residentialStatus": "HOME_OWNER",
+                "durationInMonths": 5,
+                "durationInYears": 8,
+                "isCurrent": true
+            }
+        ]
+    },
+    "mainApplicantBank": {
+        "sortCode": "202050",
+        "accountNumber": "12345678",
+        "accountHolderFullName": "Mr Paul Smith",
+        "bankName": "Barclays Plc",
+        "bankFullAddress": "10 Business Avenue, OX4 4GE"
+    },
+    "vehicle": {
+        "make": "Ford",
+        "model": "Fiesta",
+        "registration": "AK18 BZL",
+        "registrationDate": "2017-01-01",
+        "mileage": 28000,
+        "vin": "SL285HFM8290LGNHT"
+    },
+    "financeRequest": {
+        "cashDeposit": 1000,
+        "partExchangeAmount": 500,
+        "settlemantAmount": 0,
+        "vehiclePurchasePrice": 7000,
+        "loanTerm": 60
+    },
+    "marketingPreferences" : {
+    	"oodleEmail" : false,
+    	"thirdPartyEmail" : false
+    }
+}
